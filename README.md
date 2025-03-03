@@ -1,4 +1,4 @@
-<h1 align="center">So_Long</h1>
+<h1 align="center">Mini_Talk</h1>
 
 <p align="center">
   <a href="#explication-fr">🇫🇷</a> | <a href="#explanation-en">🇬🇧</a>
